@@ -1,2 +1,7 @@
 # hello-World
-Hello World Repository
+
+
+Hey!
+
+We people are working for Alexa Skill Developers
+
